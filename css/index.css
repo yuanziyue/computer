@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	width: 1080px;
+	height: 168px;
+	background-color: #00a5c4;
+}
+.head_left{
+	line-height: 168px;
+	color: #fff;
+	font-weight: 300;
+	margin-left: 50px;
+	font-size: 53px;
+	float: left;
+	font-family: '微软雅黑','苹方';
+}
+.head_right{
+	width: 13px;
+	height: 53px;
+	float: right;
+	margin-top: 57.5px;
+	margin-right: 65px;
+}
+.head_right_yuan{
+	width: 13px;
+	height: 13px;
+	background-color: #fff;
+	border-radius: 50%;
+
+}
+.yuan1{
+	margin-top: 7px;
+	margin-bottom:7px;
+}
+.middle{
+	width: 1080px;
+	height: 561px;
+	background-color: #f0f0f0;
+}
+.middle_right{
+	width: 4px;
+	height: 165px;
+	background-color: #00a5c4;
+	float: right;
+	margin-top: 18px;
+	margin-right: 33px;
+
+}
+.history{
+	width: 1080px;
+	height: 102px;
+	background-color:#dfe3e4;
+	overflow: hidden;
+}
+.history_jiantou{
+	width: 64px;
+	height: 31px;
+	margin: 0 auto;
+	margin-top: 34px;
+}
+.jianpan{
+	width: 1080px;
+	height: 1089px;
+	background-color: #dfe3e4;
+}
+.btn{
+	width: 265px;
+	height: 214px;
+	background-color: #fff;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	font-size: 50px;
+	font-family: San Francisco Display;
+	font-weight: 500;
+	line-height: 214px;
+	text-align: center;
+
+}
+.btn1{
+	margin-right: 0;
+}
+.btn2{
+	width: 266px;
+}
+.btn3{
+	height: 209px;
+}
+.btn4{
+	background-color: #f2f4f4;
+}
+.btn5{
+	color: #00a0ce;
+}
+.btn6{
+	color:#4bae50;
+}
+.btn7{
+	font-size: 70px;
+	font-weight: 600;
+	font-family: San Francisco Display; 
+	color: #4e95d7;
+}
